@@ -1,6 +1,6 @@
-<p align="center"><a href="https://paystack.com/"><img src="https://raw.githubusercontent.com/PaystackHQ/wordpress-payment-forms-for-paystack/master/icon.png" alt="Payment Forms for Paystack"></a></p>
+<p align="center"><a href="https://paystack.com/"><img src="https://raw.githubusercontent.com/PaystackHQ/wordpress-payment-forms-for-paystack/master/icon.png" alt="Paystack Gateway for Premiumpress Themes"></a></p>
 
-# Paystack gateway for premiumpress themes
+# Paystack Gateway for Premiumpress Themes
 
 Welcome to the Wordpress Paystack gateway for premiumpress themes repository on GitHub. 
 
@@ -44,7 +44,7 @@ You need to open a Paystack merchant account on Paystack
 * [Paystack Helpdesk](https://paystack.com/help)
 
 ## Support
-For bug reports and feature requests directly related to this plugin, please use the [issue tracker](https://github.com/PaystackHQ/paystack-payment-forms-for-wordpress/issues). 
+For bug reports and feature requests directly related to this plugin, please use the [issue tracker](https://github.com/PaystackHQ/plugin-wordpress-premiumpress/issues). 
 
 For questions related to using the plugin, please post an inquiry to the plugin [support forum](https://wordpress.org/support/plugin/payment-forms-for-paystack).
 
