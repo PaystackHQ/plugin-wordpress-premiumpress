@@ -6,6 +6,18 @@ Welcome to the Paystack Wordpress Premiumpress plugin repository on GitHub.
 Here you can browse the source code, look at open issues and keep track of development.
 
 
+## **Deprecation Notice**
+
+We regret to inform you that the Paystack Wordpress Premiumpress Plugin is now deprecated and will no longer be actively maintained or supported.
+
+**Reasons for deprecation**:
+- Compatibility issues with the latest software versions
+- Security vulnerabilities that cannot be addressed sufficiently.
+- Obsolete functionality that is no longer relevant
+
+To ensure a seamless experience, we recommend exploring the Paystack Integrations Directory for [alternative plugins](https://www.premiumpress.com/plugin/paystack-payment-plugin/) that are actively maintained and supported.
+
+
 ## Documentation
 
 * [Paystack Documentation](https://developers.paystack.co/v2.0/docs/)
